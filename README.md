@@ -1,12 +1,5 @@
-# ProyectoDSII
-Data Science II: Machine Learning para la Ciencia de Datos
-
-
-# ProyectoDS
-
-Curso: Data Science I: Fundamentos para la Ciencia de Datos
-Comisión 61170
-Alumno: Diego Lopez Castan
+# Spotify
+Creador: Diego Lopez Castan
 
 
 # Abstract
